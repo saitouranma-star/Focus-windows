@@ -24,7 +24,7 @@ Focusは、あなたの集中を助ける強力なデスクトップアプリで
 
 ```cmd
 # リポジトリをクローン
-git clone https://github.com/Nyanma11/Focus.git
+git clone https://github.com/Nyanma11/Focus-windows.git
 
 # 必要なライブラリをインストール
 pip install customtkinter pillow pystray plyer
