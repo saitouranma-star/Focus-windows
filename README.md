@@ -1,2 +1,2 @@
-# Focus-windows
+# Focus
 GitHubでの最初のプロジェクト。
