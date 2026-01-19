@@ -18,7 +18,7 @@ Focusは、あなたの集中を助ける強力なデスクトップアプリで
 
 ### Releaseからダウンロード（推奨）
 
-[こちらのページ](https://github.com/Nyanma11/Focus/releases)からダウンロード後、解凍してお使いください。
+[こちらのページ](https://github.com/Nyanma11/Focus-windows/releases)からダウンロード後、解凍してお使いください。
 
 ### Python環境をお持ちの方は、ソースコードから実行できます。
 
